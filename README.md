@@ -1,5 +1,5 @@
 # bootstrap-instagram-odev
 bootstrap 2. ödev 
 
-#patika.dev
+# patika.dev
 https://app.patika.dev/senatetik
